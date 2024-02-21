@@ -11,4 +11,7 @@ In case of detection of signs that have text on them an OCR algorithm is run thr
 Bounding boxes of found signs are run through a triangulation algorithm to place them in real world with coordinates.
 
 # Results 
-
+Train track recognition to reduce amount of scanned images:
+![Train track pred](traintracks.png)
+Example of sign recognition
+![Sign pred](Train.png)
